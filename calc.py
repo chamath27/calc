@@ -1,6 +1,6 @@
 """calc.py: A simple Python calculator."""
 import sys
-
+#def to calculate the sum
 def add_all(nums):
     return sum(nums)
 
