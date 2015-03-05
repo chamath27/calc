@@ -1,2 +1,2 @@
 # calc
-A simple Puthon calculator
+A simple Python calculator
